@@ -1,0 +1,27 @@
+body{
+    height: 600vh;
+}
+::-webkit-scrollbar {
+    width: 15px;
+  }
+ ::-webkit-scrollbar-track {
+    background-color: #e2e2e2;
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: rgb(255, 155, 23);
+  }
+  h1{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: sans-serif;
+  }
+  p{
+font-size: 18px;
+    font-weight: 200;
+    font-family: sans-serif;
+  }
